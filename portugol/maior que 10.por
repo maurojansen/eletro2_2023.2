@@ -8,6 +8,10 @@ programa {
     {
       escreva("O número digitado é maior que 10.\n")
     }
+    senao {
+      escreva("O número é menor ou igual a 10.\n")
+    }
     escreva("Fim do algoritmo.")
   }
 }
+
