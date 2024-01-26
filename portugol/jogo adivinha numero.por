@@ -1,3 +1,9 @@
+/*
+  Algoritmo jogo do adivinha número
+
+  Equipe: Sabrina, Bruno Yago, Gabriel, Ligia, Gabrielly, Victor, Samuel, Daniel, Kaio
+
+*/
 programa {
   funcao inicio() {
     escreva("Jogo do Adivinha número\n")
